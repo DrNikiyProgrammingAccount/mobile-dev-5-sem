@@ -2,3 +2,9 @@ lesson1/.env
 lesson1/.venv/
 lesson1/_pycache_/
 lesson1/.idea/
+
+lesson1_homework/.env
+lesson1_homework/.venv/
+lesson1_homework/_pycache_/
+lesson1_homework/.idea/
+lesson1_homework/*.log

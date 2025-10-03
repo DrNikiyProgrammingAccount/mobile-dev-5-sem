@@ -8,3 +8,15 @@ lesson1_homework/.venv/
 lesson1_homework/_pycache_/
 lesson1_homework/.idea/
 lesson1_homework/*.log
+
+lesson2/.env
+lesson2/.venv/
+lesson2/_pycache_/
+lesson2/.idea/
+lesson2/*.log
+
+lesson2_homework/.env
+lesson2_homework/.venv/
+lesson2_homework/_pycache_/
+lesson2_homework/.idea/
+lesson2_homework/*.log

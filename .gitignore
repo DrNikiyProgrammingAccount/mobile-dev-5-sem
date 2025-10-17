@@ -20,3 +20,17 @@ lesson2_homework/.venv/
 lesson2_homework/_pycache_/
 lesson2_homework/.idea/
 lesson2_homework/*.log
+
+lesson3/.env
+lesson3/.venv/
+lesson3/_pycache_/
+lesson3/.idea/
+lesson3/*.log
+
+lesson3_homework/.env
+lesson3_homework/.venv/
+lesson3_homework/_pycache_/
+lesson3_homework/.idea/
+lesson3_homework/*.log
+lesson3_homework/bot.db
+lesson3_homework/bot.dbbot.db

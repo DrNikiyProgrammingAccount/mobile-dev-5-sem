@@ -34,7 +34,7 @@ def make_main_Kb() -> types.ReplyKeyboardMarkup:
     # Создаём клавиатуру с автоподгонкой размера
     kb = types.ReplyKeyboardMarkup(resize_keyboard=True)
     # Добавляем кнопки по рядам kb.row "О боте", "Сумма")
-    kb.row("/start", "/about", "/sum", "/max", "/hide", "/show")
+    kb.row("/start", "/about", "/sum", "/max", "/hide", "/show", "/weather")
     return kb
 
 

@@ -1,0 +1,7 @@
+pytelegrambotapi
+dotenv
+pytest
+pytest-cov
+responses
+pytest-mock
+freezegun
